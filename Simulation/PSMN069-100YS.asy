@@ -18,7 +18,7 @@ WINDOW 3 56 72 Left 2
 SYMATTR Value PSMN069_100YS
 SYMATTR Prefix X
 SYMATTR Description N-Channel MOSFET transistor
-SYMATTR ModelFile Z:\home\christoph\Documents\PersonalProjects\nuc\Simulation\3cell\PSMN069-100YS.lib
+SYMATTR ModelFile PSMN069-100YS.lib
 PIN 48 0 NONE 0
 PINATTR PinName DRAIN
 PINATTR SpiceOrder 1
